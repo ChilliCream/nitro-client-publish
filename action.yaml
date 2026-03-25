@@ -2,7 +2,7 @@ name: "Nitro Client Publish"
 description: "Publishes client operations to the Nitro registry"
 author: "ChilliCream"
 branding:
-  icon: "upload-cloud"
+  icon: "send"
   color: "orange"
 
 inputs:
